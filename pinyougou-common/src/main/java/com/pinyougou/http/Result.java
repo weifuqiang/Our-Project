@@ -27,7 +27,8 @@ public class Result implements Serializable {
         this.message = message;
         this.success = success;
     }
-
+1
+    1313
     public String getMessage() {
         return message;
     }
